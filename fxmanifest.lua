@@ -1,4 +1,3 @@
-shared_script '@housing/ai_module_fg-obfuscated.lua'
 fx_version 'adamant'
 
 game 'gta5'
