@@ -3,7 +3,7 @@ fx_version 'adamant'
 
 game 'gta5'
 
-description 'ESX Identity'
+description 'ESX Identity Redesigned by Mantys'
 
 version '1.7.5'
 
